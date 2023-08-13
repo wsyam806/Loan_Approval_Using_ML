@@ -1,0 +1,6 @@
+altair==4.2.2
+pandas
+joblib
+scikit-learn==1.2.2
+feature_engine
+
